@@ -209,3 +209,6 @@ __marimo__/
 
 notes.md
 *.mp4
+*.pt
+game_videos/
+output/
