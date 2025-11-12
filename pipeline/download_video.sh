@@ -1,10 +1,10 @@
 #!/bin/bash
 
-GAME_DATE="10-20-2025"
+GAME_DATE="11-06-2025"
 
 GAME_VIDEO_START_TIME="0830PM"
 OUTPUT_DEST="game_videos/${GAME_DATE}/${GAME_DATE}_${GAME_VIDEO_START_TIME}_raw.mp4"
-AMLST_FILE="/redirect/a9e135ab2af84f80a37e67dfdb4c4454-vod/amlst:XZAI9eD_2FEE4eZA41D7bHhtoYLC6DG6lLPPoyc_2FsAAdul67Guf7xFdXIzqV1dvy3_2Fx09A_2BtAb5mDv6nsuEbdlBnEtcK3DFZ5nzCrttMxAAW9NaaofV6tR3Lu2b1DJqGenkgmqc_2BgwpSVilpR6_2BFQ0twFJLr9wTfsw"
+AMLST_FILE="	/redirect/a9e135ab2af84f80a37e67dfdb4c4454-vod/amlst:b19zavDVGghYW_2BvfTFkWbeYqQvhXNsgPS8Y1Rh6hqfWx4wOJ_2BeQns6Np4cGcVvZpW1qsyJzcrDxN8x0e9aPuS55fVRcSdTyRCf6ztLCI7c2t60kPGfIqdXpptSjwAYqzAHD0xz8EIRkt5T5gn7lKen6vzVd6qtYw"
 
 URL_FILE="https://cdn.livebarn.com${AMLST_FILE}?type=m3u8"
 
